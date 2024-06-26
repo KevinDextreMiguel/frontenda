@@ -1,5 +1,5 @@
 export const environment = {
-    production: false,
+    production: true,
   // base: "http://localhost:8082"
    base: "https://finanback-fnyn.onrender.com"
 }
